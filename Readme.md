@@ -4,10 +4,10 @@ We will be practicing how to read files from the iOS filesystem. In this reposit
 
 ## Tasks
 
-[x] Clone/Download this repository
+- [x] Clone/Download this repository
 
-[x] Load the file ```robo-profiles.json``` from the application bundle.
+- [x] Load the file ```robo-profiles.json``` from the application bundle.
 
-[x] Model the JSON loaded from the application bundle into Swift models (You can use Swift Codable or a Third party library for JSON Modeling)
+- [x] Model the JSON loaded from the application bundle into Swift models (You can use Swift Codable or a Third party library for JSON Modeling)
 
-[x] Display the list of robo profiles in a list (UITableView or UICollectionView)
+- [x] Display the list of robo profiles in a list (UITableView or UICollectionView)
