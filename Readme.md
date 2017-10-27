@@ -4,7 +4,7 @@ We will be practicing how to read files from the iOS filesystem. In this reposit
 
 ## Tasks
 
-- [ ] Clone/Download this repository
+- [x] Clone/Download this repository
 
 - [x] Load the file ```robo-profiles.json``` from the application bundle.
 
