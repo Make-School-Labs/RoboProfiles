@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		051CECB11FA7135D00FB01FA /* robo-profiles.json in Resources */ = {isa = PBXBuildFile; fileRef = 051CECB01FA7135D00FB01FA /* robo-profiles.json */; };
 		05966F751FA307E2005012B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05966F741FA307E2005012B2 /* AppDelegate.swift */; };
 		05966F771FA307E2005012B2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05966F761FA307E2005012B2 /* ViewController.swift */; };
 		05966F7A1FA307E2005012B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05966F781FA307E2005012B2 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		051CECB01FA7135D00FB01FA /* robo-profiles.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "robo-profiles.json"; sourceTree = SOURCE_ROOT; };
 		05966F711FA307E2005012B2 /* AppBundleReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppBundleReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05966F741FA307E2005012B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05966F761FA307E2005012B2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		05966F731FA307E2005012B2 /* AppBundleReader */ = {
 			isa = PBXGroup;
 			children = (
+				051CECB01FA7135D00FB01FA /* robo-profiles.json */,
 				05966F741FA307E2005012B2 /* AppDelegate.swift */,
 				05966F761FA307E2005012B2 /* ViewController.swift */,
 				05966F781FA307E2005012B2 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				05966F7F1FA307E2005012B2 /* LaunchScreen.storyboard in Resources */,
+				051CECB11FA7135D00FB01FA /* robo-profiles.json in Resources */,
 				05966F7C1FA307E2005012B2 /* Assets.xcassets in Resources */,
 				05966F7A1FA307E2005012B2 /* Main.storyboard in Resources */,
 			);
